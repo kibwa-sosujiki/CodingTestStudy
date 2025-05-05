@@ -1,5 +1,5 @@
-# CodingTestStudy
-2025 코딩테스트 스터디
+# AlgorithmStudy
+2025 코딩테스트(알고리즘) 스터디
 
 규칙은 [참고자료 링크](https://github.com/ellynhan/challenge100-codingtest-study?tab=readme-ov-file)를 참고했습니다.
 
